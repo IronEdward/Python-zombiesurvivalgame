@@ -1,4 +1,4 @@
-# Python-zombiesurvivalgame
+# Zombie Survival Shooter Game
 Simple survival game written in Python.
 
 ## Usage
